@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "socials-homes": {
+      "type": "streamable-http",
+      "url": "https://www.socials.homes/mcp"
+    },
+    "socials-homes-docs": {
+      "type": "streamable-http",
+      "url": "https://www.socials.homes/mcp/docs"
+    }
+  }
+}

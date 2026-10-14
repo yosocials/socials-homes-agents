@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "socials-homes",
+  "version": "1.0.0",
+  "description": "Help a person moving to a new city find a rental room, studio or apartment with Socials Homes: a skill for the search, and Socials Homes' public, read-only MCP servers for cities, plans, live listing counts and docs.",
+  "author": { "name": "Socials Homes", "email": "hello@socials.homes", "url": "https://www.socials.homes" },
+  "homepage": "https://www.socials.homes",
+  "repository": "https://github.com/yosocials/socials-homes-agents",
+  "keywords": ["rental-housing", "relocation", "housing-alerts", "whatsapp", "mcp", "agent-skill"]
+}
