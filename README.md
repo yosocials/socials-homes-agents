@@ -1,5 +1,7 @@
 # Socials Homes agent kit
 
+Listed on [Smithery](https://smithery.ai/servers/alex-75ii/socials-homes) and in the [official MCP registry](https://registry.modelcontextprotocol.io/v0/servers?search=homes.socials).
+
 Everything an AI agent needs to help a person find a rental home with [Socials Homes](https://www.socials.homes): Socials Homes scans 2,000+ housing sites and sends new listings matching a person's city, budget and move-in date to WhatsApp and a web app the moment they go live.
 
 This repository holds no application code. It contains:
