@@ -6,7 +6,9 @@ Instructions for AI agents (coding agents and assistants) working with this repo
 
 The public agent kit for [Socials Homes](https://www.socials.homes): one agent skill, an Agent Plugin manifest and the connection details for Socials Homes' public MCP servers. It contains no application source code; the product itself is not open source.
 
-- `skills/socials-homes-rental-search/SKILL.md`: the skill. It is the same skill Socials Homes publishes at https://www.socials.homes/.well-known/agent-skills/index.json
+- `skills/socials-homes-rental-search/SKILL.md`: the main skill, the same one Socials Homes publishes at https://www.socials.homes/.well-known/agent-skills/index.json
+- `skills/socials-homes-plan-advisor/SKILL.md`: choosing a plan, with exact prices and renewal terms
+- `skills/socials-homes-city-supply/SKILL.md`: checking live listings in a city under a budget
 - `plugin.json`: the [Agent Plugins](https://agent-plugins.org/specification) manifest
 - `mcp.json`: the two MCP servers, for clients that read plugin MCP configuration
 

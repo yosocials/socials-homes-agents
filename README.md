@@ -4,11 +4,14 @@ Everything an AI agent needs to help a person find a rental home with [Socials H
 
 This repository holds no application code. It contains:
 
-- **An agent skill**: [`skills/socials-homes-rental-search/SKILL.md`](skills/socials-homes-rental-search/SKILL.md)
+- **Three agent skills**:
+  - [`socials-homes-rental-search`](skills/socials-homes-rental-search/SKILL.md): help a person find a rental home with Socials Homes
+  - [`socials-homes-plan-advisor`](skills/socials-homes-plan-advisor/SKILL.md): choose a plan, with exact prices and renewal terms
+  - [`socials-homes-city-supply`](skills/socials-homes-city-supply/SKILL.md): check live listings in a city under a budget
 - **An Agent Plugin manifest**: [`plugin.json`](plugin.json) and [`mcp.json`](mcp.json)
 - **Agent instructions**: [`AGENTS.md`](AGENTS.md)
 
-## Install the skill
+## Install the skills
 
 ```bash
 npx skills add yosocials/socials-homes-agents
